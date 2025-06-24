@@ -2,5 +2,5 @@ streamlit
 opencv-python-headless
 streamlit-webrtc
 fer
-numpy
-tensorflow
+tensorflow==2.15.0
+numpy==1.23.5
